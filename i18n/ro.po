@@ -1,12 +1,12 @@
 msgid ""
 msgstr ""
-"Last-Translator: Ask Bjørn Hansen <ask@develooper.com>\n"
+"Last-Translator: Razvan Zeces - <razvan@yo6rzv.ro>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 msgid "go up"
-msgstr "mergi sus"
+msgstr "mergi in partea de sus"
 
 # zone names
 msgid "Africa"
@@ -33,7 +33,7 @@ msgstr "Tranduceri"
 
 # mailinglists.html
 msgid  "NTP Pool mailing lists"
-msgstr "Lista de discuţii a comunităţii NTP"
+msgstr "Lista de discutii prin mail a NTP"
 # i have to see the context to translate properly
 msgid  "subscribe"
 msgstr "înscrie-te"
